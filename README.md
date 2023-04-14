@@ -1,2 +1,2 @@
-# RacerXT
-Datos de pagina con REACT
+# ProyectoCitasReact
+Uso de React para un software de veterinaria
